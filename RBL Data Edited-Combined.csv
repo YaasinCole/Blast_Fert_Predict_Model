@@ -1,0 +1,274 @@
+﻿;;Outcome Variables - Fertilisation Most NB;;Predictor Variables;;;;;;;;;;;;;;
+Year;Patient_ID;Fertilization Rate (%);Blastulation_Rate (%);Donor Semen;Semen_Collection_Method;Ejaculatory_Abstinence (days);Semen_Volume (ml);Sperm_Concentration (million/ml);Sperm_Prog_Motility (%);Sperm_Morphology (%);Round_Cells (million/ml);Male_Infertility;Female_ Infertility;Follicles_Collected (#);Male_Age (years);Female_Age (years);Male_Tobacco;Male_Alcohol
+2019;M1997;45%;80%;No;Fresh;;4,5;2,8;23;3;0,5;unknown;unknown;16;34;33;unknown;unknown
+2019;L264;0%;;No;Fresh;;2;0,69;8;2;0,1;unknown;unknown;20;41;36;unknown;unknown
+2019;H144;25%;0%;No;Fresh;4;2,8;0,8;12;5;0,1;primary;unknown;5;52;39;No;No
+2019;M2207;50%;0%;No;Fresh;3;0,8;27;80;6;0,4;secondary;unknown;2;40;32;No;No
+2019;M2410;64%;57%;No;Fresh;3;1,5;7,5;42;2;1;primary;unknown;14;30;27;No;Yes
+2019;V263;100%;100%;No;Fresh;14;6;13;55;1;0,1;primary;unknown;5;32;30;unknown;unknown
+2019;Z55;0%;;No;Thawed ;;1;;;;;unknown;unknown;2;39;36;unknown;unknown
+2019;S628;50%;100%;No;Fresh;3;2,8;58;48;2;10;primary;unknown;7;38;34;Yes;Yes
+2019;G141;50%;50%;No;Fresh;7;1;79;75;2;0,1;unknown;unknown;16;43;34;unknown;
+2019;S601;60%;0%;No;Fresh;3;0,5;25;64;4;0,3;primary;unknown;9;37;35;No;Yes
+2019;M2503;60%;0%;No;Thawed ;3;0,6;6;38;4;0,1;unknown;unknown;5;45;40;unknown;unknown
+2019;N519;70%;86%;No;Fresh;4;1;15;14;;0,1;primary;primary;11;38;35;No;No
+2019;J90;57%;50%;No;Fresh;4;1,5;94;67;8;0,1;secondary;primary;7;42;35;No;No
+2019;M2415;50%;0%;No;Fresh;5;1,8;31;45;2;0,4;primary;primary;6;32;29;No;Yes
+2019;S549;0%;;No;Fresh;7;6;82;72;12;0,3;secondary;secondary;3;36;37;No;Yes
+2019;G118;0%;;No;Fresh;;3;0,8;24;2;0,1;unknown;unknown;3;40;38;unknown;unknown
+2019;N513;25%;0%;No;Fresh;3;3;2;30;;0,1;secondary;primary;4;42;40;No;No
+2019;S558;17%;0%;No;Thawed ;21;0,6;171;62;5;0,8;primary;unknown;10;42;41;No;No
+2019;M2501;47%;86%;No;Fresh;5;4;10;24;9;0,1;secondary;secondary;16;37;38;Yes;Yes
+2019;M2508;50%;0%;Yes;Fresh;3;0,6;40;32;3;0,5;unknown;unknown;4;;33;No;No
+2019;M2490;100%;80%;No;Fresh;6;4,2;17;46;4;0,2;secondary;secondary;11;34;32;No;Yes
+2019;M2551;100%;0%;No;Fresh;3;1,9;10;27;2;1,3;secondary;primary;1;39;36;No;Yes
+2019;M2369;100%;0%;No;Fresh;15;5;1,5;13;;0,1;primary;primary;2;40;36;No;No
+2019;N339;100%;0%;No;Thawed ;;;;;;;unknown;unknown;2;49;39;unknown;unknown
+2019;S551;20%;0%;No;Thawed ;4;3;24;18;6;0,1;secondary;unknown;6;52;39;No;No
+2019;M2477;75%;33%;No;Fresh;6;3;150;58;6;0,1;primary;primary;4;31;32;No;No
+2019;K346;38%;0%;No;Fresh;4;0,8;28;13;2;0,4;secondary;secondary;12;35;32;Yes;No
+2019;M2356;100%;0%;Yes;Fresh;;0,5;49;50;7;0,1;unknown;unknown;3;;41;unknown;unknown
+2019;N451;56%;100%;No;Fresh;3;6;37;60;8;0,1;secondary;primary;9;33;29;No;Yes
+2019;S539;50%;0%;No;Fresh;4;2,3;5;43;4;0,5;primary;unknown;6;35;34;Yes;Yes
+2019;K341;25%;67%;No;Fresh;2;0,8;1,3;30;;0,7;primary;secondary;12;27;32;Yes;Yes
+2019;M2425;9%;0%;Yes;Fresh;3;0,5;73;54;7;0,1; primary;secondary;11;36;27;No;Yes
+2019;M2567;50%;0%;No;Thawed ;5;0,6;19;25;2;0,3;unknown;unknown;3;39;36;Yes;No
+2019;M2530;100%;0%;Yes;Fresh;;0,7;28;15;8;0,6;unknown;unknown;4;47;37;unknown;unknown
+2019;M2528;50%;0%;No;Fresh;;0,6;13;56;5;;secondary;secondary;4;42;39;No;Yes
+2019;M2498;33%;25%;No;Fresh;1;;0,1;40;;0,1;primary;primary;14;42;33;No;No
+2019;N540;80%;50%;No;Fresh;5;0,35;1,8;0;;0,1;primary;primary;7;39;29;No;No
+2019;G145;50%;0%;No;Thawed ;14;1;5;10;;0,1;secondary;unknown;6;37,08;37;No;No
+2019;M2532;0%;;No;Thawed ;6;0,6;37;63;6;0,3;unknown;unknown;3;36,33;37;No;No
+2019;P214;38%;0%;No;Fresh;3;3;2,3;2;8;0,2;secondary;unknown;10;50,33;31;No;No
+2019;M2445;89%;75%;No;Fresh;14;0,5;0,82;12;;0,1;primary;primary;33;33,17;30;No;No
+2019;M2535;53%;63%;No;Fresh;3;1,5;0,31;13;;0,2;primary;primary;39;30,17;29;No;No
+2019;K312;67%;0%;No;Fresh;;3,2;2,8;45;6;0,1;unknown;unknown;5;36,33;38;unknown;unknown
+2019;M2504;100%;0%;No;Fresh;1;4,5;50;64;6;0,1;secondary;primary;2;29,5;32;No;Yes
+2019;M2479;50%;0%;No;Fresh;60;2,3;60;53;3;0,3;primary;primary;2;37,58;35;No;No
+2019;P221;75%;100%;No;Fresh;3;0,5;4,3;56;;0,1;secondary;secondary;4;29;31;No;No
+2020;W83;50%;0%;No;Thawed;3;0,6;8;37;4;0,8;Unknown;Unknown;12;39;40;Unknown;Unknown
+2020;M2007;0%;;No;Thawed;3;0,9;1,2;49;;0,8;Unknown;Unknown;18;47;42;Yes;Unknown
+2020;K359;60%;33%;No;Fresh;4;4,8;34;90;7;0,1;Secondary;Secondary;5;39;37;No;Yes
+2020;S652;64%;33%;No;Fresh;0;4;15;24;2;0,1;Primary;Primary;24;39;34;No;No
+2020;M2603;75%;0%;No;Fresh;;1,9;102;94;9;0,2;Secondary;Secondary;5;42;41;No;Yes
+2020;M2622;67%;17%;No;Fresh;21;2,5;0,5;98;0;1;Secondary;Secondary;17;45;38;No;Yes
+2020;M2742;100%;40%;No;Fresh;4;2,9;1,6;81;5;0,1;Primary;Primary;5;42;36;No;Yes
+2020;K332;56%;78%;No;Thawed;;0,6;14,5;15;4;;Unknown;Unknown;18;47;35;Unknown;Unknown
+2020;N506;40%;100%;No;Fresh;14;4,5;0,3;10;;0,1;Primary;Secondary;13;37;34;Yes;Yes
+2020;L290;100%;67%;No;Fresh;3;2,1;26;88;4;0,3;Secondary;Secondary;3;37;37;No;No
+2020;N568;29%;0%;No;Fresh;2;0,8;4;91;4;0,1;Secondary;Secondary;7;47;40;Yes;No
+2020;M1424;56%;120%;No;Fresh;3;4;154;90;5;0,1;Secondary;Secondary;15;37;38;Yes;Yes
+2020;N579;76%;100%;No;Fresh;7;2,5;24;80;3;7,5;Secondary;Secondary;19;33;29;No;Yes
+2020;M2790;50%;67%;No;Fresh;;3;25;38;3;0,1;Unknown;Unknown;14;41;34;Unknown;Unknown
+2020;L275;38%;38%;No;Fresh;;3,3;16;53;4;0,2;Unknown;Unknown;23;28;26;Unknown;Unknown
+2020;M2604;88%;29%;No;Fresh;14;4;104;92;8;0,1;Primary;Primary;15;35;33;No;No
+2020;N382;25%;0%;No;Thawed;;0,6;0,2;15;;0,8;Secondary;Primary;4;41;38;No;No
+2020;M2530;67%;0%;Yes;Fresh;;0,8;6;40;7;0,1;Unknown;Unknown;4;47;38;Unknown;Unknown
+2020;M2452;40%;0%;No;Thawed;4;0,3;;10;;0,1;Unknown;Unknown;9;40;37;No;No
+2020;J96;50%;0%;No;Fresh;3;0,5;63;95;5;0,2;Secondary;Secondary;4;57;40;No;Yes
+2020;M2389;50%;33%;No;Fresh;3;2,3;130;91;8;0,2;Secondary;Primary;6;46;35;No;Yes
+2020;T245;43%;0%;No;Fresh;3;3;13;90;4;0,3;Primary;Primary;7;35;34;No;No
+2020;M2829;0%;;No;Fresh;3;3;287;92;12;0,4;Primary;Secondary;4;40;41;No;No
+2020;N592;50%;0%;No;Fresh;10;2,5;11;46;5;0,5;Primary;Primary;5;41;38;No;Yes
+2020;M2812;0%;;No;Thawed;3;0,6;4;50;;0,7;Unknown;Unknown;3;38;36;No;Yes
+2020;M2826;80%;100%;No;Fresh;;4,5;7;51;5;0,1;Unknown;Unknown;6;43;33;No;No
+2020;M2822;0%;;No;Fresh;3;1,6;0,6;53;;0,2;Secondary;Secondary;1;46;41;No;No
+2020;M2146;33%;0%;No;Thawed;3;0,6;1,9;32;;0,7;Unknown;Unknown;16;41;34;Unknown;Unknown
+2020;M2856;0%;;No;Thawed;;1;1,6;19;;0,1;Unknown;Primary;5;37;32;Unknown;Unknown
+2020;K336;150%;100%;No;Fresh;0;1,6;5,3;62;1;0,2;Primary;Primary;7;37;36;No;Yes
+2020;M2858;100%;0%;No;Fresh;14;2;2,6;2;4;0,1;Secondary;Secondary;2;45;37;No;Yes
+2020;S665;38%;33%;No;Fresh;3;1,5;37;85;5;0,2;Primary;Primary;12;36;33;No;No
+2020;B313;17%;0%;No;Fresh;3;2,4;3;89;;0,1;Primary;Primary;7;38;33;Yes;Yes
+2020;S675;0%;;No;Fresh;3;1,8;6;80;4;0,1;Secondary;Secondary;2;45;35;No;No
+2020;N592;60%;67%;No;Fresh;30;3,4;11;73;;0,1;Primary;Primary;6;41;38;No;No
+2020;T226;60%;0%;No;Fresh;3;2,8;24;8;;0,1;Primary;Secondary;7;40;34;No;Yes
+2020;T286;50%;25%;No;Fresh;7;6;1,2;96;3;0,8;Primary;Primary;16;32;32;No;No
+2020;M2661;30%;67%;No;Fresh;3;2,5;0,7;85;;0,1;Primary;Secondary;13;35;32;No;Yes
+2020;K354;0%;;No;Fresh;3;4;6;86;10;0,3;Secondary;Primary;2;41;33;No;No
+2020;N589;40%;25%;No;Fresh;30;3;2,1;58;4;0,9;Primary;Primary;10;42;28;No;No
+2020;N603;47%;63%;No;Fresh;3;1,2;1,2;89;;0,5;Unknown;Unknown;17;32;28;No;No
+2020;M2814;43%;33%;No;Fresh;14;6;10;79;6;0,8;Secondary;Primary;7;48;37;No;No
+2020;M2838;100%;100%;No;Fresh;3;1,8;41;24;;0,1;Primary;Primary;4;41;35;No;Yes
+2020;S654;100%;25%;No;Fresh;3;3;8;72;5;0,2;Primary;Secondary;4;39;36;No;Yes
+2020;N581;60%;0%;No;Fresh;;2;1,9;21;4;;Secondary;Secondary;9;48;38;No;No
+2020;M2615;33%;0%;No;Fresh;8;3,7;16;68;5;0,1;Secondary;Primary;4;30;33;No;Yes
+2021;M2882;100%;100%;No;Fresh;3;2,2;3,2;8;4;0,1;primary;primary;9;37;36;no;yes
+2021;K283;13%;100%;No;Fresh;5;3,8;3;;;0,6;primary;primary;19;44;35;no;yes
+2021;N581;50%;75%;No;Fresh;30;1,5;6;40;4;0,1;secondary;secondary;11;48;39;no; 
+2021;V275;0%;;No;Fresh;3;0,9;96;68;10;0,1;secondary;secondary;3;35;32;no;yes
+2021;M2740;100%;0%;No;Fresh;4;3,2;132;52;9;0,5;secondary;primary;4;42;40;no;no
+2021;D294;100%;0%;No;Fresh;;2,2;127;67;;0,1;unknown;unknown;2;41;33;unknown;unknown
+2021;M2898;31%;25%;No;Fresh;17;4;28;30;2;0,2;primary;primary;22;43;29;no;yes
+2021;N608;0%;;No;Thawed ;0;2,5;85;56;9;0,1;secondary;primary;1;55;40;unknown;unknown
+2021;M2758;0%;;No;Fresh;3;1;86;50;6;0,7;unknown;unknown;4;53;40;unknown;unknown
+2021;D265;79%;53%;No;Fresh;;1,2;40;42;;0,2;unknown;unknown;26;36;31;unknown;unknown
+2021;M2809;17%;0%;No;Fresh;17;0,4;226;71;6;1;secondary;secondary;6;62;39;no;yes
+2021;M2190;25%;0%;No;Fresh;3;1,5;25;34;6;0,4;secondary;secondary;6;34;37;no;no
+2021;B367;18%;0%;No;Fresh;0;2,3;1,6;49;;0,1;unknown;unknown;14;44;34;unknown;unknown
+2021;M2300;67%;0%;No;Fresh;14;3,3;141;37;6;0,5;secondary;secondary;7;42;36;unknown;unknown
+2021;Z67;67%;0%;No;Fresh;4;2;3,2;6;8;0,1;primary;primary;4;39;38;no;no
+2021;M2933;33%;100%;No;Fresh;4;3;95;57;6;0,8;secondary;secondary;3;32;35;no;no
+2021;M2716;20%;33%;No;Fresh;7;3;225;68;8;0,1;secondary;secondary;18;45;32;no;no
+2021;M2896;28%;80%;No;Fresh;6;5;9;22;5;0,7;primary;primary;32;38;30;no;no
+2021;M2703;64%;14%;No;Fresh;4;1;16;60;4;0,1;secondary;primary;13;44;37;no;no
+2021;N518;100%;0%;No;Fresh;5;3,1;103;62;7;0,1;secondary;secondary;4;37;38;unknown;unknown
+2021;N569;100%;0%;No;Thawed ;7;0,5;3;89;;0,1;secondary;secondary;1;45;34;no;unknown
+2021;P245;50%;60%;No;Fresh;;3,8;2,15;12;1;0,7;primary;primary;13;35;32;no;no
+2021;G163;50%;0%;No;Thawed ;7;1;100;55;9;0,2;secondary;primary;12;39;40;unknown;unknown
+2021;P201;58%;43%;No;Fresh;3;4,2;7;14;4;0,6;primary;primary;14;42;38;yes;yes
+2021;M2904;67%;50%;No;Fresh;6;0,8;19;24;;0,6;secondary;secondary;4;72;38;no;no
+2021;P255;54%;29%;No;Fresh;3;1;186;64;8;0,5;secondary;primary;13;42;31;no;yes
+2021;O108;0%;;No;Fresh;3;2;2;2;6;0,3;secondary;secondary;8;29;33;no;yes
+2021;P257;67%;75%;No;Fresh;4;1,7;70;56;9;0,1;secondary;secondary;15;27;39;no;unknown
+2021;N599;57%;25%;No;Fresh;4;5,2;200;61;10;0,2;secondary;secondary;8;40;37;no;no
+2021;N633;50%;64%;No;Fresh;4;4;250;73;7;0,1;positive;primary;30;35;33;unknown;unknown
+2021;M2972;56%;80%;No;Fresh;15;1;212;68;4;0,1;secondary;primary;11;31;36;no;yes
+2021;M2958;0%;;No;Thawed ;2;1;41;29;13;0,2;secondary;primary;7;35;38;no;no
+2021;M2917;60%;100%;No;Fresh;;1,5;3;0;;;unknown;unknown;9;34;31;unknown;unknown
+2021;S699;56%;20%;No;Fresh;5;3;9;13;3;0,6;secondary;secondary;11;47;40;no;yes
+2021;R215;0%;;No;Fresh;;1;205;57;;0,1;unknown;unknown;2;42;41;unknown;unknown
+2021;P258;0%;;No;Fresh;3;3,8;19;66;10;0,1;secondary;primary;5;40;37;no;yes
+2021;C212;67%;100%;Yes;Fresh;;1;35;34;;0,7;unknown;unknown;8;;35;unknown;unknown
+2021;M2615;60%;0%;No;Fresh;3;4;4,4;59;6;0,3;negative;primary;10;31;34;no;yes
+2023;L310;25%;0%;No;Fresh;77;2,5;1,5;40;;0,1;primary;primary;4;51;33;no;no
+2023;M3110;67%;0%;No;Fresh;5;1,5;58;93;10;0,2;secondary;secondary;3;47;36;yes;yes
+2023;T315;62%;75%;No;Decontaminated;3;6;53;68;7;0,8;secondary;primary;17;35;30;no;no
+2023;M2755;33%;33%;No;Fresh;3;1,5;14;32;5;0,2;primary;secondary;43;34;31;yes;no
+2023;P258;50%;0%;No;Fresh;3;2,8;23;81;9;0,1;secondary;primary;7;41;39;no;yes
+2023;C219;100%;0%;No;Fresh;10;1,5;25;48;5;0,5;primary;secondary;2;39;38;yes;yes
+2023;K333;100%;50%;No;Fresh;3;4;1,4;42;1;0,1;primary;secondary;3;38;31;no;Yes
+2023;T321;83%;40%;No;Fresh;3;2,5;4;77;7;0,2;secondary;primary;9;29;33;no;no
+2023;T325;67%;50%;No;Fresh;3;1,8;2;70;8;0,1;secondary;secondary;8;37;39;no;no
+2023;N724;33%;0%;No;Fresh;3;1;29;78;6;0,2;primary;secondary;6;44;38;no;yes
+2023;S772;77%;63%;No;Fresh;3;2,5;23;73;10;0,1;secondary;secondary;39;39;38;no;no
+2023;M2790;75%;0%;No;Fresh;4;2,1;4,6;75;3;0,1;primary;primary;9;44;37;no;no
+2023;K348;71%;40%;No;Fresh;3;2;7;32;7;0,3;Secondary;secondary;9;49;40;no;yes
+2023;M3289;89%;75%;No;Fresh;14;2;88;87;3;0,3;primary;secondary;14;38;36;no;no
+2023;O113;33%;50%;No;Fresh;3;2,1;60;40;3;0,1;primary;primary;18;34;29;no;yes
+2023;S763;88%;36%;No;Decontaminated;5;1,7;30;80;11;0,5;secondary;secondary;18;45;36;no;no
+2023;C225;54%;71%;No;Fresh;10;3;111;40;7;0,3;primary;primary;5;38;37;no;no
+2023;D324;57%;100%;No;Fresh;0;1;1,34;22;8;0,1;Secondary;secondary;21;50;34;yes;yes
+2023;M3047;33%;0%;No;Thawed;;1,8;1,8;4;2;0,8;secondary;secondary;8;44;36;no;no
+2023;M2190;25%;50%;No;Fresh;3;1,7;0,5;34;;0,1;secondary;primary;11;;39;no;no
+2023;G180;86%;67%;No;Fresh;4;3,8;1,9;48;3;0,1;unknown;unknown;20;36;30;no;no
+2023;B390;47%;89%;No;Fresh;26;5;1;9;4;0,4;primary;secondary;22;39;25;no;no
+2023; M2762;40%;25%;No;Thawed;;1;2;10;4;-;secondary;secondary;14;46;44;no;yes
+2023;M3318;47%;100%;No;Fresh;3;1,4;8;82;8;0,1;primary;secondary;19;36;31;no;yes
+2023;N638;50%;0%;No;Fresh;4;2,5;16;94;5;0,1;secondary;primary;10;40;38;yes;yes
+2023;M3334;67%;0%;No;Fresh;4;3,5;6;58;3;0,2;secondary;secondary;4;51;39;yes;yes
+2023;L333;100%;0%;No;Fresh;3;3;28;38;3;0,3;primary;secondary;4;44;35;no;Yes
+2023;M3355;33%;0%;No;Fresh;3;1;0,8;2;;0,1;primary;secondary;4;35;35;no;no
+2023;M3312;43%;50%;No;Fresh;5;2;200;79;4;0,1;secondary;secondary;21;35;31;yes;yes
+2023;M3014;64%;71%;No;Fresh;6;4,7;29;64;12;0,1;secondary;secondary;12;50;38;yes;yes
+2023;O114;100%;0%;No;Fresh;3;2,5;110;73;11;0,2;primary;secondary;2;25;41;yes;no
+2023;S741;50%;0%;No;Fresh;4;2,8;220;94;10;0,3;secondary;secondary;3;36;36;no;no
+2023;K387;60%;67%;No;Thawed;15;1;1;5;7;;Secondayr;primary;7;45;37;Yes;Yes
+2023;K405;73%;75%;No;Fresh;30;7,5;96;45;9;0,1;Secondary;primary;12;39;41;no;no
+2023;K412;56%;0%;No;Fresh;3;1,5;77;1;1;0,2;primary;secondary;15;39;36;no;no
+2023;L341;25%;100%;No;Fresh;3;2,5;49;54;12;0,1;Secondary;secondary;14;40;40;no;YES
+2023;M3352;67%;0%;No;Fresh;3;1,5;18;44;5;0,1;secondary;primary;9;36;31;no;yes
+2023;M3277;57%;50%;No;Fresh;3;2;8;51;4;0,1;primary;secondary;17;27;25;no;no
+2023;T328;50%;0%;No;Fresh;4;1,5;84;64;10;0,1;primary;secondary;2;39;37;no;no
+2023;H148B;75%;100%;No;Fresh;30;1;16;54;8;0,1;secondary;primary;19;42;36;no;no
+2023;S759;100%;33%;No;Decontaminated;5;1,5;33;88;10;0,1;secondary;secondary;3;40;37;yes;yes
+2023;M3300;67%;83%;No;Fresh;5;4,6;90;34;6;0,1;primary;secondary;15;31;30;no;yes
+2023;M3070;64%;71%;No;Fresh;3;1,4;185;87;7;0,4;secondary;primary;12;35;30;unknown;yes
+2023;B401;50%;100%;No;Fresh;3;2,5;9;8;6;0,6;primary;secondary;16;47;26;NO;No
+2023;K403;100%;0%;Yes;Fresh;;0,5;112;60;14;0,5;Donor;unknown;1;43;40;unknown;unknown
+2023;S799;100%;75%;No;Thawed;;1,8;8;50;6;0,2;primary;primary;6;30;32;yes;yes
+2023;M3332;100%;100%;No;Fresh;3;4;41;90;9;0,1;secondary;secondary;2;42;40;yes;yes
+2023;P279;83%;100%;No;Fresh;4;2;50;73;9;0,1;primary;primary;9;30;31;no;yes
+2023;S800;100%;55%;No;Fresh;6;6;11;85;5;0,2;primary;secondary;12;34;35;no;no
+2023;T333;100%;0%;No;Fresh;3;1,5;98;82;9;0,2;unknown;unknown;21;43;37;no;no
+2023;E91;31%;0%;No;Fresh;10;5;142;54;6;0,9;primary;primary;27;38;34;yes;yes
+2023;F72;67%;43%;No;Fresh;4;2;24;25;4;0,3;secondary;primary;30;49;36;no;unknown
+2023;M3346;67%;57%;No;Fresh;2;2;4;50;2;0,1;secondary;secondary;29;40;30;no;yes
+2023;M1618;86%;67%;No;Fresh;14;0,5;6;46;4;0,3;secondary;primary;10;52;40;no;yes
+2023;M3270;44%;75%;No;Fresh;21;3;140;74;8;0,1;unknown;unknown;9;47;37;yes;yes
+2023;M3283;100%;100%;No;Fresh;3;2;13;84;9;0,1;secondary;secondary;3;39;39;no;no
+2023;M3361;73%;64%;Yes;Fresh;;0,5;35;80;9;0,1;primary;secondary;22;35;30;no;yes
+2023;N750;50%;0%;No;Thawed;;0,5;<1;<1;;-;unknown;unknown;2;43;34;unknown;unknown
+2023;S788;41%;67%;No;Fresh;3;3;1;62;;0,3;primary;primary;23;40;31;23;no
+2023;A182;45%;60%;No;Fresh;0;2;75;1;6;0,1;primary;unknown;27;35;32;no;no
+2023;M3338;60%;100%;No;Fresh;;4;46;66;9;0,7;secondary;primary;5;37;30;yes;yes
+2023;M3317;67%;113%;No;Fresh;2;3;74;72;10;0,1;secondary;primary;18;43;30;no;no
+2023;M3384;67%;50%;No;Fresh;4;7;23;33;8;0,2;secondary;secondary;36;39;41;no;yes
+2023;V290;90%;89%;No;Fresh;5;2,8;104;80;5;0,1;primary;secondary;11;39;35;no;yes
+2023;M3394;40%;0%;No;Fresh;3;3;2;70;;0,1;primary;primary;5;38;32;no;yes
+2024;M3386;50%;0%;No;Fresh;;6,5;176;73;12;0,2;unknown ;unknown ;3;41;39;unknown ;unknown 
+2024;M3405;33%;0%;No;Thawed ;;0,8;20;34;4;0,1;unknown ;unknown ;9;41;39;unknown ;unknown 
+2024;M3397;33%;0%;No;Fresh;3;3,5;22;19;3;0,5;primary;secondary;17;44;39;no;yes
+2024;M3400;100%;25%;No;Fresh;;3;9;10;4;0,1;primary;secondary;9;38;36;unknown ;unknown 
+2024;M3377;100%;0%;No;Fresh;3;1,5;86;63;4;0,1;secondary;secondary;3;40;34;no;yes
+2024;M3141;57%;75%;No;Fresh;3;2;122;55;8;0,1;secondary;secondary;24;37;33;no;no
+2024;M3349;80%;100%;No;Fresh;3;3;163;48;7;0,5;secondary;primary;5;40;34;yes;yes
+2024;M3311;88%;100%;No;Fresh;14;2,5;272;60;4;0,4;primary;primary;9;33;34;no;yes
+2024;M3239;50%;100%;No;Fresh;5;1,5;36;37;7;0,5;secondary;secondary;9;50;37;no;yes
+2024;M3324;73%;50%;No;Fresh;14;1;94;80;6;0,1;secondary;primary;10;37;40;no;yes
+2024;M3123;40%;43%;No;Fresh;3;2;6;28;2;0,5;primary;secondary;14;35;32;no;yes
+2024;M3220;40%;100%;No;Fresh;15;4,5;72;37;3;0,3;secondary;unknown ;1;39;27;no;no
+2024;M3437;80%;125%;No;Fresh;;2;47;34;5;0,2;unknown ;unknown ;2;37;35;unknown ;unknown 
+2024;M3442;67%;0%;No;Fresh;3;2,8;15;43;2;0,1;primary;secondary;5;41;41;no;no
+2024;M3429;67%;100%;No;Fresh;4;0,6;35;3;4;0,1;secondary;secondary;7;46;39;no;no
+2024;M3412;25%;0%;No;Fresh;3;3;4,2;48;4;0,1;primary;primary;14;29;28;no;yes
+2024;M2935;50%;0%;No;Thawed ;10;1;60;24;6;0,1;unknown ;primary;10;44;39;unknown ;unknown 
+2024;M3432;33%;0%;No;Fresh;6;2,3;121;40;2;1,8;primary;secondary;17;43;40;no;unknown 
+2024;M3379;100%;100%;No;Fresh;7;1;78;27;8;0,1;primary;primary;10;43;41;no;no
+2024;M3455;50%;0%;No;Fresh;3;4;50;48;3;0,1;secondary;secondary;1;35;33;no;no
+2024;M2790;100%;0%;No;Fresh;4;2,1;12;58;3;0,1;primary;unknown ;11;45;38;no;no
+2024;M3352;25%;50%;No;Fresh;3;1,5;36;1;3;0,1;secondary;primary;6;37;32;unknown ;unknown 
+2024;M3401;56%;78%;No;Fresh;4;2;270;70;9;0,2;primary;secondary;22;39;37;no;yes
+2024;M3490;75%;0%;No;Fresh;7;5;81;49;4;0,3;secondary;secondary;43;46;39;no;no
+2024;M3440;58%;14%;No;Fresh;;1;1;15;;0,1;primary;secondary;3;36;34;no;no
+2024;M3482;65%;82%;No;Fresh;3;2,5;14;33;4;0,6;primary;primary;2;39;38;no;no
+2024;M3054;56%;100%;No;Fresh;5;2,5;52;60;14;0,1;primary;primary;7;34;37;no;no
+2024;M3452;56%;78%;No;Fresh;4;4;1,49;28;;0,1;primary;primary;41;33;28;no;yes
+2024;M3312;75%;56%;No;Fresh;5;2;70;67;4;0,1;secondary;secondary;29;36;32;yes;yes
+2024;M3529;33%;0%;No;Fresh;4;2,7;100;85;4;0,1;secondary;secondary;10;43;35;no;no
+2024;M3462;50%;0%;No;Fresh;4;2,5;30;71;8;0,1;primary;primary;11;27;30;no;yes
+2024;M3333;100%;100%;No;Fresh;2;2,5;3;14;4;0,1;primary;primary;7;41;34;no;no
+2024;M3430;75%;83%;No;Fresh;5;2,5;99;32;6;0,1;secondary;secondary;10;29;29;no;yes
+2024;M2835;80%;25%;No;Fresh;3;1,2;8;5;3;0,1;secondary;primary;13;37;40;no;no
+2024;K416;0%;0%;No;Fresh;30;2;41;41;5;0,3;secondary;secondary;6;41;38;no;no
+2024;D322;50%;60%;No;Fresh;4;3,1;27;63;2;0,1;secondary;secondary;5;36;37;unknown ;unknown 
+2024;H185;100%;0%;No;Fresh;5;3;122;67;7;0,4;secondary;secondary;27;37;39;no;yes
+2024;R313;10%;0%;No;Fresh;6;3;1,3;2;;0,1;secondary;secondary;13;35;32;unknown ;unknown 
+2024;K406;50%;50%;No;Fresh;1;2;45;70;3;0,2;secondary;secondary;6;45;44;no;yes
+2024;C228;38%;0%;No;Fresh;4;0,5;40;64;7;0,1;secondary;primary;4;41;38;no;yes
+2024;Y15;100%;0%;No;Fresh;4;1,8;102;83;6;0,1;secondary;primary;3;46;38;no;no
+2024;T333;0%;0%;No;Fresh;3;1;120;71;6;0,1;unknown ;unknown ;6;43;37;unknown ;unknown 
+2024;R299;0%;0%;No;Fresh;3;3,5;106;65;2;0,4;secondary;secondary;10;40;34;unknown ;no
+2024;G183;33%;0%;No;Fresh;4;2;92;84;7;0,3;unknown ;secondary;26;34;34;no;no
+2024;D332;64%;14%;No;Fresh;5;3;0,4;0;3;0,4;primary;primary;9;39;32;no;yes
+2024;N758;0%;0%;No;Fresh;3;0,5;5;6;5;0,1;secondary;primary;3;42;37;yes;yes
+2024;D310;100%;0%;No;Fresh;3;2,5;92;42;6;0,4;secondary;secondary;12;44;39;yes;yes
+2024;S807;100%;0%;Yes;Fresh;3;0,5;129;42;6;0,3;primary;primary;7;40;40;no;no
+2024;B413;100%;0%;No;Fresh;3;1;18;52;5;0,3;primary;primary;19;39;41;no;yes
+2024;D288;17%;0%;No;Fresh;9;2,5;2,4;29;4;0,1;secondary;secondary;9;44;37;no;no
+2024;R298;78%;79%;No;Fresh;;3;26;36;9;0,4;unknown ;unknown ;4;31;30;unknown ;unknown 
+2024;N751;33%;0%;No;Fresh;2;1,5;67;53;3;0,2;secondary;secondary;9;34;37;no;yes
+2024;B414;100%;100%;No;Fresh;2;2,5;83;55;3;0,1;primary;unknown ;7;38;37;no;no
+2024;C231;0%;0%;No;Fresh;3;2;223;74;4;0,1;primary;secondary;24;39;36;yes;yes
+2024;N772;62%;88%;No;Fresh;3;2;27;56;4;0,1;secondary;primary;11;41;30;no;no
+2024;T336;8%;0%;No;Fresh;5;5;9;4;30;0,1;primary;primary;30;40;29;no;YES
+2024;R269;100%;0%;No;Fresh;7;1;75;77;7;0,2;secondary;secondary;14;37;36;yes;yes
+2024;K390;20%;0%;No;Fresh;5;3;15;40;2;0,8;secondary;primary;13;43;34;no;no
+2024;H189;22%;50%;No;Fresh;3;3;15;49;8;0,1;primary;primary;17;40;36;no;no
+2024;V291;43%;0%;No;Fresh;8;3,2;58;70;2;0,1;secondary;primary;8;35;35;no;yes
+2024;s816;78%;71%;Yes;Fresh;;0,5;60;34;5;0,1;unknown ;unknown ;16;;39;unknown ;unknown 
+2024;S831;62%;75%;No;Fresh;3;1,5;2;61;;0,1;primary;secondary;21;35;30;no;yes
+2024;T346;25%;0%;No;Fresh;4;1;59;72;4;0,2;secondary;secondary;11;;;no;yes
+2024;C237;67%;43%;No;Fresh;3;1,5;93;79;8;0,1;secondary;primary;19;35;33;yes;yes
+2024;S818;56%;120%;No;Fresh;5;2,5;1;8;;0,1;secondary;primary;21;39;36;no;no
+2024;A190;67%;67%;No;Fresh;7;3;24;57;5;0,1;primary;unknown ;17;32;29;no;no
+2024;V284;77%;45%;No;Fresh;3;3;14;64;2;0,1;primary;secondary ;4;27;30;yes;no
+2024;S824;25%;0%;No;Fresh;2;1,5;60;56;7;0,1;secondary ;secondary ;16;39;40;no;yes
+2024;S836;63%;60%;No;Fresh;3;3;48;33;5;0,1;secondary ;secondary ;3;37;39;no;no
+2024;B419;70%;43%;No;Fresh;4;0,9;0,3;1;;0,4;primary;primary;10;44;32;no;no
+2024;N758;50%;50%;No;Fresh;;4;18;46;7;0,1;unknown ;unknown ;6;43;38;unknown ;unknown 
+2024;P287;73%;38%;No;Fresh;12;4,7;10;72;4;0,1;primary;secondary;10;44;39;no;no
+2024;S843;59%;60%;No;Fresh;5;4;60;52;2;0,8;primary;primary;23;;;no;no
+2024;K432;88%;100%;No;Fresh;30;1,5;4,4;6;5;0,3;secondary;primary;13;39;30;no;no
+2024;V291;80%;25%;No;Fresh;8;3;88;50;2;0,4;secondary;primary;35;35;35;no;yes
+2024;I24;25%;0%;No;Fresh;5;3;10;47;2;0,1;primary;primary;11;40;35;no;no
+2024;N792;73%;9%;No;Thawed ;;1;58;46;4;0,1;primary;primary;6;35;32;no;no
