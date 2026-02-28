@@ -1,0 +1,15 @@
+,Feature,Mean Sensitivity,Std Sensitivity
+0,Donor Semen,0.09895972,0.0058890595
+1,Semen_Collection_Method,0.087071866,0.0061019566
+2,Semen_Volume (ml),0.083159156,0.0052759373
+3,Sperm_Concentration (million/ml),0.07774675,0.00876094
+4,Sperm_Prog_Motility (%),0.07345018,0.008745452
+5,Sperm_Morphology (%),0.06907515,0.0063992417
+6,Round_Cells (million/ml),0.06530703,0.005916319
+7,Male_Infertility,0.06375093,0.005799859
+8,Female_ Infertility,0.061800707,0.0060963486
+9,Follicles_Collected (#),0.059830092,0.0055180914
+10,Male_Age (years),0.058098417,0.0057964185
+11,Female_Age (years),0.056262635,0.005420018
+12,Male_Tobacco,0.053803723,0.0056582885
+13,Male_Alcohol,0.048418954,0.0061455225
