@@ -1,0 +1,92 @@
+Variable 1,Variable 2,Pearson r,p-value,Significant
+Male_Age (years),Female_Age (years),0.477,0.0,Yes
+Sperm_Concentration (million/ml),Sperm_Prog_Motility (%),0.375,0.0,Yes
+Male_Tobacco,Male_Alcohol,0.344,0.0,Yes
+Male_Infertility,Female_Age (years),0.275,0.0,Yes
+Male_Infertility,Male_Age (years),0.258,0.0,Yes
+Male_Infertility,Female_ Infertility,0.246,0.0001,Yes
+Sperm_Concentration (million/ml),Sperm_Morphology (%),0.239,0.0001,Yes
+Sperm_Prog_Motility (%),Male_Alcohol,0.192,0.0022,Yes
+Sperm_Prog_Motility (%),Sperm_Morphology (%),0.184,0.0033,Yes
+Semen_Collection_Method,Female_Age (years),0.173,0.0057,Yes
+Semen_Volume (ml),Follicles_Collected (#),0.155,0.0135,Yes
+Female_ Infertility,Female_Age (years),0.143,0.0232,Yes
+Sperm_Morphology (%),Male_Infertility,0.139,0.027,Yes
+Sperm_Concentration (million/ml),Male_Infertility,0.132,0.0358,Yes
+Female_ Infertility,Male_Age (years),0.127,0.0429,Yes
+Donor Semen,Female_ Infertility,0.121,0.0544,No
+Semen_Collection_Method,Male_Age (years),0.12,0.0563,No
+Donor Semen,Sperm_Morphology (%),0.117,0.0625,No
+Sperm_Prog_Motility (%),Male_Infertility,0.117,0.0635,No
+Sperm_Concentration (million/ml),Female_Age (years),0.111,0.0776,No
+Semen_Collection_Method,Male_Infertility,0.111,0.078,No
+Sperm_Morphology (%),Female_Age (years),0.109,0.0842,No
+Round_Cells (million/ml),Male_Tobacco,0.103,0.1017,No
+Semen_Volume (ml),Sperm_Prog_Motility (%),0.101,0.11,No
+Round_Cells (million/ml),Male_Alcohol,0.1,0.1115,No
+Sperm_Prog_Motility (%),Male_Tobacco,0.096,0.128,No
+Female_ Infertility,Male_Tobacco,0.087,0.1692,No
+Semen_Volume (ml),Sperm_Morphology (%),0.086,0.1723,No
+Sperm_Concentration (million/ml),Male_Alcohol,0.079,0.2088,No
+Donor Semen,Male_Age (years),0.068,0.2837,No
+Sperm_Morphology (%),Male_Tobacco,0.067,0.2895,No
+Sperm_Prog_Motility (%),Female_Age (years),0.067,0.2917,No
+Round_Cells (million/ml),Female_ Infertility,0.06,0.338,No
+Sperm_Concentration (million/ml),Male_Tobacco,0.056,0.3746,No
+Semen_Collection_Method,Female_ Infertility,0.055,0.3817,No
+Donor Semen,Female_Age (years),0.053,0.4013,No
+Sperm_Morphology (%),Male_Alcohol,0.053,0.3972,No
+Sperm_Concentration (million/ml),Follicles_Collected (#),0.048,0.4427,No
+Follicles_Collected (#),Male_Alcohol,0.042,0.5097,No
+Female_Age (years),Male_Tobacco,0.041,0.5133,No
+Donor Semen,Male_Infertility,0.04,0.5314,No
+Sperm_Prog_Motility (%),Female_ Infertility,0.04,0.531,No
+Sperm_Concentration (million/ml),Female_ Infertility,0.039,0.5389,No
+Donor Semen,Sperm_Concentration (million/ml),0.038,0.5524,No
+Sperm_Morphology (%),Male_Age (years),0.038,0.5455,No
+Sperm_Morphology (%),Follicles_Collected (#),0.037,0.5588,No
+Semen_Volume (ml),Sperm_Concentration (million/ml),0.033,0.6,No
+Semen_Volume (ml),Male_Alcohol,0.028,0.6606,No
+Semen_Volume (ml),Round_Cells (million/ml),0.025,0.6946,No
+Male_Infertility,Male_Tobacco,0.02,0.7572,No
+Round_Cells (million/ml),Follicles_Collected (#),0.015,0.8151,No
+Sperm_Prog_Motility (%),Round_Cells (million/ml),0.015,0.8064,No
+Sperm_Concentration (million/ml),Round_Cells (million/ml),0.009,0.8902,No
+Follicles_Collected (#),Male_Tobacco,0.004,0.9545,No
+Semen_Volume (ml),Male_Tobacco,0.003,0.9585,No
+Donor Semen,Round_Cells (million/ml),-0.005,0.9387,No
+Semen_Collection_Method,Round_Cells (million/ml),-0.005,0.9336,No
+Round_Cells (million/ml),Male_Age (years),-0.012,0.8504,No
+Semen_Collection_Method,Male_Tobacco,-0.019,0.7669,No
+Female_Age (years),Male_Alcohol,-0.029,0.6451,No
+Sperm_Concentration (million/ml),Male_Age (years),-0.031,0.6203,No
+Male_Age (years),Male_Tobacco,-0.033,0.5982,No
+Sperm_Morphology (%),Female_ Infertility,-0.034,0.5919,No
+Donor Semen,Sperm_Prog_Motility (%),-0.035,0.5801,No
+Round_Cells (million/ml),Male_Infertility,-0.036,0.5657,No
+Donor Semen,Semen_Collection_Method,-0.048,0.4456,No
+Female_ Infertility,Follicles_Collected (#),-0.052,0.4119,No
+Male_Age (years),Male_Alcohol,-0.056,0.3733,No
+Sperm_Prog_Motility (%),Follicles_Collected (#),-0.059,0.3539,No
+Female_ Infertility,Male_Alcohol,-0.061,0.3345,No
+Round_Cells (million/ml),Female_Age (years),-0.07,0.2693,No
+Male_Infertility,Male_Alcohol,-0.071,0.2634,No
+Donor Semen,Follicles_Collected (#),-0.08,0.2046,No
+Donor Semen,Male_Tobacco,-0.081,0.1975,No
+Donor Semen,Male_Alcohol,-0.086,0.1751,No
+Semen_Collection_Method,Sperm_Concentration (million/ml),-0.089,0.1581,No
+Male_Infertility,Follicles_Collected (#),-0.104,0.0983,No
+Sperm_Prog_Motility (%),Male_Age (years),-0.106,0.0933,No
+Semen_Volume (ml),Female_ Infertility,-0.109,0.084,No
+Semen_Volume (ml),Male_Infertility,-0.112,0.0748,No
+Semen_Collection_Method,Sperm_Morphology (%),-0.113,0.073,No
+Semen_Collection_Method,Follicles_Collected (#),-0.119,0.0594,No
+Semen_Collection_Method,Male_Alcohol,-0.143,0.0229,Yes
+Sperm_Morphology (%),Round_Cells (million/ml),-0.145,0.0211,Yes
+Semen_Volume (ml),Female_Age (years),-0.146,0.0204,Yes
+Follicles_Collected (#),Male_Age (years),-0.154,0.014,Yes
+Semen_Volume (ml),Male_Age (years),-0.163,0.0095,Yes
+Semen_Collection_Method,Sperm_Prog_Motility (%),-0.242,0.0001,Yes
+Donor Semen,Semen_Volume (ml),-0.254,0.0,Yes
+Follicles_Collected (#),Female_Age (years),-0.278,0.0,Yes
+Semen_Collection_Method,Semen_Volume (ml),-0.29,0.0,Yes

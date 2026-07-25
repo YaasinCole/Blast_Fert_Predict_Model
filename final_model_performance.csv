@@ -1,0 +1,3 @@
+Model,Best Validation MAEμ,Best Epoch
+Fertilisation Prediction Model,0.239,23
+Blastulation Prediction Model,0.2548,1
