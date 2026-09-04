@@ -1,31 +1,31 @@
 Feature,Mean Sensitivity,Std Sensitivity,Target
-Semen_Volume (ml),0.11023587,0.028315896,Blastulation
-Sperm_Concentration (million/ml),0.08912649,0.014248477,Blastulation
-Sperm_Prog_Motility (%),0.07856568,0.012907047,Blastulation
-Sperm_Morphology (%),0.07187165,0.006756254,Blastulation
-Round_Cells (million/ml),0.06935429,0.0069886427,Blastulation
-Follicles_Collected (#),0.0654744,0.0073470054,Blastulation
-Male_Age (years),0.06123898,0.0074620843,Blastulation
-Female_Age (years),0.05793768,0.0046655214,Blastulation
-Donor Semen_yes,0.05549128,0.0055295094,Blastulation
-Semen_Collection_Method_fresh,0.053461917,0.0051127844,Blastulation
-Semen_Collection_Method_thawed,0.051196754,0.005739651,Blastulation
-Male_Infertility_secondary,0.04808375,0.0062831184,Blastulation
-Female_ Infertility_secondary,0.045364913,0.0056766286,Blastulation
-Male_Tobacco_yes,0.043125175,0.0056304093,Blastulation
-Male_Alcohol_yes,0.03835727,0.0057051927,Blastulation
-Semen_Volume (ml),0.0839581,0.008809906,Fertilization
-Sperm_Concentration (million/ml),0.079574,0.00790869,Fertilization
-Sperm_Prog_Motility (%),0.074463144,0.0068645873,Fertilization
-Sperm_Morphology (%),0.07156135,0.006505066,Fertilization
-Round_Cells (million/ml),0.06824951,0.005270095,Fertilization
-Follicles_Collected (#),0.063900925,0.004806853,Fertilization
-Male_Age (years),0.061766565,0.0057971813,Fertilization
-Female_Age (years),0.05926127,0.0054859915,Fertilization
-Donor Semen_yes,0.05685565,0.006158283,Fertilization
-Semen_Collection_Method_fresh,0.0555143,0.006216452,Fertilization
-Semen_Collection_Method_thawed,0.05437711,0.006557447,Fertilization
-Male_Infertility_secondary,0.051826917,0.0058753286,Fertilization
-Female_ Infertility_secondary,0.050134968,0.005249548,Fertilization
-Male_Tobacco_yes,0.04564002,0.005114335,Fertilization
-Male_Alcohol_yes,0.042146243,0.0068896865,Fertilization
+Semen_Volume (ml),0.11510245,0.0154549135,Blastulation
+Sperm_Concentration (million/ml),0.09468488,0.010714697,Blastulation
+Sperm_Prog_Motility (%),0.0885874,0.009352513,Blastulation
+Sperm_Morphology (%),0.07935001,0.007731502,Blastulation
+Round_Cells (million/ml),0.074740574,0.008231716,Blastulation
+Follicles_Collected (#),0.06993542,0.006470833,Blastulation
+Male_Age (years),0.06641484,0.005599357,Blastulation
+Female_Age (years),0.062581964,0.004775145,Blastulation
+Donor Semen_yes,0.060120724,0.0049125664,Blastulation
+Semen_Collection_Method_fresh,0.057014804,0.003928243,Blastulation
+Semen_Collection_Method_thawed,0.05377257,0.0032465048,Blastulation
+Male_Infertility_secondary,0.050713874,0.0036415993,Blastulation
+Female_ Infertility_secondary,0.048735626,0.0039245794,Blastulation
+Male_Tobacco_yes,0.04297421,0.002607166,Blastulation
+Male_Alcohol_yes,0.0410297,0.0031343352,Blastulation
+Semen_Volume (ml),0.10029058,0.01884095,Fertilization
+Sperm_Concentration (million/ml),0.08728987,0.01001307,Fertilization
+Sperm_Prog_Motility (%),0.08027057,0.008330542,Fertilization
+Sperm_Morphology (%),0.07598321,0.00812244,Fertilization
+Round_Cells (million/ml),0.07381286,0.008205045,Fertilization
+Follicles_Collected (#),0.07080766,0.007792497,Fertilization
+Male_Age (years),0.067912206,0.0059917932,Fertilization
+Female_Age (years),0.0645148,0.0056176935,Fertilization
+Donor Semen_yes,0.062493812,0.0060738744,Fertilization
+Semen_Collection_Method_fresh,0.060699254,0.006089712,Fertilization
+Semen_Collection_Method_thawed,0.058563184,0.0056918496,Fertilization
+Male_Infertility_secondary,0.05519274,0.0063864933,Fertilization
+Female_ Infertility_secondary,0.051112227,0.0064546717,Fertilization
+Male_Tobacco_yes,0.04820984,0.005925264,Fertilization
+Male_Alcohol_yes,0.04325162,0.0066920593,Fertilization

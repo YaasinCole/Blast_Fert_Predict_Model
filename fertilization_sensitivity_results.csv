@@ -1,16 +1,16 @@
 ,Feature,Mean Sensitivity,Std Sensitivity
-0,Semen_Volume (ml),0.0839581,0.008809906
-1,Sperm_Concentration (million/ml),0.079574,0.00790869
-2,Sperm_Prog_Motility (%),0.074463144,0.0068645873
-3,Sperm_Morphology (%),0.07156135,0.006505066
-4,Round_Cells (million/ml),0.06824951,0.005270095
-5,Follicles_Collected (#),0.063900925,0.004806853
-6,Male_Age (years),0.061766565,0.0057971813
-7,Female_Age (years),0.05926127,0.0054859915
-8,Donor Semen_yes,0.05685565,0.006158283
-9,Semen_Collection_Method_fresh,0.0555143,0.006216452
-10,Semen_Collection_Method_thawed,0.05437711,0.006557447
-11,Male_Infertility_secondary,0.051826917,0.0058753286
-12,Female_ Infertility_secondary,0.050134968,0.005249548
-13,Male_Tobacco_yes,0.04564002,0.005114335
-14,Male_Alcohol_yes,0.042146243,0.0068896865
+0,Semen_Volume (ml),0.10029058,0.01884095
+1,Sperm_Concentration (million/ml),0.08728987,0.01001307
+2,Sperm_Prog_Motility (%),0.08027057,0.008330542
+3,Sperm_Morphology (%),0.07598321,0.00812244
+4,Round_Cells (million/ml),0.07381286,0.008205045
+5,Follicles_Collected (#),0.07080766,0.007792497
+6,Male_Age (years),0.067912206,0.0059917932
+7,Female_Age (years),0.0645148,0.0056176935
+8,Donor Semen_yes,0.062493812,0.0060738744
+9,Semen_Collection_Method_fresh,0.060699254,0.006089712
+10,Semen_Collection_Method_thawed,0.058563184,0.0056918496
+11,Male_Infertility_secondary,0.05519274,0.0063864933
+12,Female_ Infertility_secondary,0.051112227,0.0064546717
+13,Male_Tobacco_yes,0.04820984,0.005925264
+14,Male_Alcohol_yes,0.04325162,0.0066920593

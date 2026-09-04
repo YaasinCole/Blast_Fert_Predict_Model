@@ -1,0 +1,16 @@
+Feature,Importance
+Female_ Infertility_secondary,0.09888367
+Sperm_Morphology (%),0.09623394
+Female_Age (years),0.095554516
+Male_Infertility_secondary,0.091952845
+Donor Semen_yes,0.08047174
+Male_Age (years),0.07861888
+Follicles_Collected (#),0.074271806
+Round_Cells (million/ml),0.06980023
+Semen_Collection_Method_fresh,0.06297872
+Sperm_Prog_Motility (%),0.058628473
+Sperm_Concentration (million/ml),0.05349075
+Male_Alcohol_yes,0.043877475
+Semen_Collection_Method_thawed,0.040382843
+Male_Tobacco_yes,0.029024465
+Semen_Volume (ml),0.025829664
