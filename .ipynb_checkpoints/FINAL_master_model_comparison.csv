@@ -1,0 +1,25 @@
+Model,Target,Dataset,MAE (%),RMSE (%)
+Baseline ANN,Fertilisation,Training,19.34,23.89
+Baseline ANN,Blastulation,Training,29.34,34.53
+Baseline ANN,Fertilisation,Validation,17.38,22.88
+Baseline ANN,Blastulation,Validation,27.14,32.82
+Baseline ANN,Fertilisation,Eval,21.57,26.15
+Baseline ANN,Blastulation,Eval,29.68,36.1
+Beta Regression,Fertilisation,Training,19.41,23.85
+Beta Regression,Blastulation,Training,27.08,32.69
+Beta Regression,Fertilisation,Validation,17.71,23.56
+Beta Regression,Blastulation,Validation,27.71,32.68
+Beta Regression,Fertilisation,Eval,20.8,25.91
+Beta Regression,Blastulation,Eval,31.31,37.62
+ResNet,Fertilisation,Training,22.35,27.64
+ResNet,Blastulation,Training,19.97,23.92
+ResNet,Fertilisation,Validation,16.86,22.9
+ResNet,Blastulation,Validation,25.65,32.94
+ResNet,Fertilisation,Eval,21.66,26.47
+ResNet,Blastulation,Eval,30.49,37.75
+XGBoost,Fertilisation,Training,22.05,26.89
+XGBoost,Blastulation,Training,27.46,31.16
+XGBoost,Fertilisation,Validation,18.18,22.97
+XGBoost,Blastulation,Validation,29.81,35.11
+XGBoost,Fertilisation,Eval,20.23,25.05
+XGBoost,Blastulation,Eval,30.23,35.82

@@ -1,0 +1,16 @@
+Feature,Sensitivity,Target
+Sperm_Morphology (%),0.039257042,Fertilization
+Female_Age (years),0.030967746,Fertilization
+Female_ Infertility_secondary,0.029511295,Fertilization
+Male_Tobacco_yes,0.027910989,Fertilization
+Follicles_Collected (#),0.024101414,Fertilization
+Semen_Volume (ml),0.0237501,Fertilization
+Sperm_Concentration (million/ml),0.023370558,Fertilization
+Semen_Collection_Method_thawed,0.020927,Fertilization
+Sperm_Prog_Motility (%),0.018921036,Fertilization
+Male_Age (years),0.018061448,Fertilization
+Donor Semen_yes,0.018004205,Fertilization
+Male_Infertility_secondary,0.017906275,Fertilization
+Semen_Collection_Method_fresh,0.014664733,Fertilization
+Male_Alcohol_yes,0.012320816,Fertilization
+Round_Cells (million/ml),0.011396325,Fertilization
